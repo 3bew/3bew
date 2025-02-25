@@ -3,9 +3,9 @@
 I'm <ins>3bew</ins>, working on web3.
 
 ```
-ɛdɘw | web3
------|-----
-ɛqəʍ | ʍɕp3
+ɛdɘw ╎ web3
+╌╌╌╌╌┼╌╌╌╌╌
+ɛqəʍ ╎ ʍɕp3
 ```
 
 <!--
